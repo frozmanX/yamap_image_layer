@@ -1,0 +1,50 @@
+{
+  "map": {
+    "center": [55.95, 32.44],
+    "zoom": 5
+  },
+  "images": {
+    "defaultSize": [45, 45],
+    "items": [
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [55.85, 30.64],
+        "size": [64, 64],
+        "balloonContent": "Image 1"
+      },
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [57.85, 34.74],
+        "size": [32, 32],
+        "balloonContent": "Image 2"
+      },
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [59.85, 36.74],
+        "balloonContent": "Image 3"
+      },
+      {
+        "url": "http://placehold.jp/64x64.png?text=BigImg",
+        "position": [55.85, 36.64],
+        "size": [64, 64],
+        "balloonContent": "Image 4"
+      },
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [57.85, 36.74],
+        "size": [32, 32],
+        "balloonContent": "Image 5"
+      },
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [59.85, 38.74],
+        "balloonContent": "Image 6"
+      },
+      {
+        "url": "https://placebeard.it/64x64",
+        "position": [52.85, 38.74],
+        "balloonContent": "Image 6"
+      }
+    ]
+  }
+}
